@@ -1,4 +1,4 @@
-An SPA for displaying customer data using React frontend.
+# An SPA for displaying customer data using React frontend.
 
 
 Read more dor running on Local development server -
