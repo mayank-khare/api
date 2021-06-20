@@ -1,3 +1,8 @@
+An SPA for displaying customer data using React frontend.
+
+
+Read more dor running on Local development server -
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
