@@ -1,7 +1,7 @@
 # An SPA for displaying customer data using React frontend.
 
 
-Read more dor running on Local development server -
+Read more for running on Local development server -
 
 # Getting Started with Create React App
 
